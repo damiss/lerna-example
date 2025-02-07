@@ -4,7 +4,7 @@ export function Header() {
     return (
         <>
             <header>
-                zzz
+                zzzz
             </header>
         </>
     );
