@@ -3308,7 +3308,7 @@ builtins@^5.0.0:
     semver "^7.0.0"
 
 button@*, "button@file:D:\\zy\\getting-started-example\\packages\\button":
-  version "0.0.10-alpha.0"
+  version "0.0.11-alpha.0"
   resolved "file:packages/button"
   dependencies:
     "@testing-library/react" "13.3.0"
@@ -9494,8 +9494,6 @@ remark-rehype@^9.0.0:
     "@remix-run/react" "^1.5.1"
     "@remix-run/serve" "^1.5.1"
     button "*"
-    footer "*"
-    header "*"
     react "18.1.0"
     react-dom "18.1.0"
 
