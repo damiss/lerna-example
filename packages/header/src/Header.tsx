@@ -4,9 +4,8 @@ export function Header() {
     return (
         <>
             <header>
-                sdf12
+                zzz
             </header>
-            <div>78</div>
         </>
     );
 }
