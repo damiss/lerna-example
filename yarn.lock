@@ -5109,7 +5109,7 @@ follow-redirects@^1.15.0:
   integrity sha512-VQLG33o04KaQ8uYi2tVNbdrWp1QWxNNea+nmIB4EVM28v0hmP17z7aG1+wAkNzVq4KeXTq3221ye5qTJP91JwA==
 
 footer@*, "footer@file:D:\\zy\\getting-started-example\\packages\\footer":
-  version "0.0.3-alpha.0"
+  version "0.0.4-alpha.0"
   resolved "file:packages/footer"
   dependencies:
     "@testing-library/react" "13.3.0"
