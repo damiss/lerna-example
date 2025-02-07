@@ -3,7 +3,7 @@
   "version": "0.0.10-alpha.0",
   "command": {
     "publish": {
-      "registry": "http://localhost:4873/"
+      "registry": "http://h4.zhuoyue.pro:8081/repository/npm-hosted/"
     }
   }
 }
