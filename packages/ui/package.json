@@ -7,6 +7,9 @@
     "build": "rimraf dist && rollup --config",
     "test": "jest"
   },
+  "publishConfig": {
+    "registry": "http://localhost:4873"
+  },
   "dependencies": {
     "@testing-library/react": "13.3.0",
     "@types/jest": "^27.0.3",
@@ -25,5 +28,5 @@
   "devDependencies": {
     "rimraf": "^3.0.2"
   },
-  "gitHead": "146bafb21df7b3114659ba00440f41454608c544"
+  "gitHead": "5c0fc6b43c2e21a597c58716936c6047822059bb"
 }
