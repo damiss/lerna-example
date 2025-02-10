@@ -1,11 +1,19 @@
-// import {Header} from 'header';
-// import {Footer} from 'footer';
-import { Button } from 'button';
+import { Button, Select, Table } from '@zy/ui';
 
 export default function Index() {
     return (
         <>
-            <Button/>
+            <Button type="primary">Hello zy123 778 hello</Button>
+            <div>
+                选项框演示：
+            </div>
+            <div>
+                <Select />
+            </div>
+            <div>表格演示</div>
+            <div>
+                <Table />
+            </div>
             <div>
                 Content!
             </div>

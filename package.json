@@ -5,7 +5,7 @@
     "packages/*"
   ],
   "devDependencies": {
-    "lerna": "^7.1.5"
+    "lerna": "^8.1.9"
   },
   "volta": {
     "node": "18.17.1"
